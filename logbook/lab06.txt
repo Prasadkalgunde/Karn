@@ -1,0 +1,4 @@
+LAB 6 LOGBOOK - PRASAD - 0887
+SETUP: my working directory is /Users/prasadkalgunde/nst/labs/lab06-os-and-filesystem
+T1 prediction: I think ls / will show about 217 items
+T1 actual: ls / showed 16 items, way fewer than I guessed

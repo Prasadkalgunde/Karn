@@ -1,0 +1,4 @@
+LAB 7 LOGBOOK - Prasad - 0887
+SETUP: clang version 21.0.0, python3 version 3.14.7, xxd installed
+T1: running hello.py created 0 new files
+T1 prediction: ./hello.c will run  and python3 hello.c will run
